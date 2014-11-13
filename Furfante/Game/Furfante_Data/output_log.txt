@@ -1,0 +1,29 @@
+Initialize engine version: 4.5.5f1 (7684ad0c5a44)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 760 (ID=0x1187)
+    Vendor:   NVIDIA
+    VRAM:     1985 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\HackSC\Game\Furfante_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\HackSC\Game\Furfante_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\HackSC\Game\Furfante_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\HackSC\Game\Furfante_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\HackSC\Game\Furfante_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\HackSC\Game\Furfante_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\HackSC\Game\Furfante_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading F:\HackSC\Game\Furfante_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  2.941 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1200 59Hz; virtual: 4320x1920 at 0,-343
+Platform assembly: F:\HackSC\Game\Furfante_Data\Managed\System.Core.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
