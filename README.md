@@ -1,4 +1,4 @@
-HackSC___Project_Furfante
+HackSC - "Project Furfante"
 =========================
 ***<b>NOTE:</b>***
 <br>This demo video was taken <b> without </b> using the Oculus due to time constraints at the event.
